@@ -122,3 +122,8 @@
 |0:00|TIME|프로세스가 소비한 총 시간|
 |/usr/sbin/sshd|COMMAND|사용자가 실행한 명령 이름|
 
+
+<br/><hr/>참고문헌
+<br/><https://terms.naver.com/entry.naver?docId=4125687&cid=59321&categoryId=59321>
+
+
